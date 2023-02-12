@@ -19,7 +19,9 @@ To run this project locally, simply clone the repository and run `npm install` t
 - Integrate a real movie and TV show database to provide up-to-date information.
 - Expand the recommendations feature to use more advanced algorithms and consider additional factors such as ratings and genres.
 
-##Preview
+## Preview
 [Here is hte link](https://bilalyounes.github.io/NetflixClone)
+
+
 ## Conclusion
 This project serves as a demonstration of the author's ability to create visually appealing and functional user interfaces using ReactJS and SASS. The project can be used as a starting point for future projects that require a Netflix-like interface.
