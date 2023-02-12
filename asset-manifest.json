@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NetflixClone/static/css/main.973b9b26.css",
+    "main.js": "/NetflixClone/static/js/main.e215b1b5.js",
+    "static/media/trailer2.mp4": "/NetflixClone/static/media/trailer2.024840f0bee59242c63e.mp4",
+    "static/media/sub1.jpg": "/NetflixClone/static/media/sub1.895d2b988b73adfcd1e4.jpg",
+    "static/media/sub11.jpg": "/NetflixClone/static/media/sub11.7de43c52d37c6634bb56.jpg",
+    "static/media/register.jpg": "/NetflixClone/static/media/register.70d420b70f2233baaba5.jpg",
+    "static/media/login.jpg": "/NetflixClone/static/media/login.b25a426713c58f98bde3.jpg",
+    "static/media/sub3.jpeg": "/NetflixClone/static/media/sub3.1a403978ec0da7b6c84b.jpeg",
+    "static/media/sub7.jpeg": "/NetflixClone/static/media/sub7.435b24c3b350f81e8afd.jpeg",
+    "static/media/sub9.jpg": "/NetflixClone/static/media/sub9.aa0fbed6e36095b41bb4.jpg",
+    "static/media/main.jpeg": "/NetflixClone/static/media/main.6f0f5a01082bbf2a5a12.jpeg",
+    "static/media/sub4.jpg": "/NetflixClone/static/media/sub4.a2db8f3e64c279e28afe.jpg",
+    "static/media/sub6.jpg": "/NetflixClone/static/media/sub6.30bc85248e269e639104.jpg",
+    "static/media/sub8.jpg": "/NetflixClone/static/media/sub8.1dba987110d269da9a7f.jpg",
+    "static/media/sub2.jpg": "/NetflixClone/static/media/sub2.34d3d71a86c6058d3678.jpg",
+    "static/media/sub5.jpg": "/NetflixClone/static/media/sub5.2202565b834e7225ca6e.jpg",
+    "index.html": "/NetflixClone/index.html",
+    "main.973b9b26.css.map": "/NetflixClone/static/css/main.973b9b26.css.map",
+    "main.e215b1b5.js.map": "/NetflixClone/static/js/main.e215b1b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973b9b26.css",
+    "static/js/main.e215b1b5.js"
+  ]
+}
