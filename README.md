@@ -20,7 +20,7 @@ To run this project locally, simply clone the repository and run `npm install` t
 - Expand the recommendations feature to use more advanced algorithms and consider additional factors such as ratings and genres.
 
 ## Preview
-[Here is hte link](https://bilalyounes.github.io/NetflixClone)
+[Here is the link](https://bilalyounes.github.io/NetflixClone)
 
 
 ## Conclusion
